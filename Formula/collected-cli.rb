@@ -4,8 +4,8 @@
 class CollectedCli < Formula
   desc "Command-line client for collected, the self-hosted student dashboard"
   homepage "https://collected.priyamkabra.com"
-  url "https://registry.npmjs.org/collected-cli/-/collected-cli-1.4.0.tgz"
-  sha256 "d3f10b2b2acf1dfbf58d170bd363efa917c55df72944e2aa7d16534629bb7f06"
+  url "https://registry.npmjs.org/collected-cli/-/collected-cli-1.4.1.tgz"
+  sha256 "d88022ede0922ae9b346019cd93cef57613d6f94d36bc9f71729a8350b103bdd"
   license "AGPL-3.0-only"
 
   depends_on "node"
